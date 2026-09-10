@@ -1,0 +1,45 @@
+/* Element selector */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+/* ID selector */
+#page-header {
+    text-align: center;
+    padding: 20px;
+    background-color: #ffffff;
+    margin-bottom: 20px;
+}
+
+/* Class selector */
+.expense-section {
+    padding: 20px;
+    background-color: #e8f5e9;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+/* Class selector */
+.expenses-list {
+    padding: 20px;
+    background-color: #fff3e0;
+    border-radius: 8px;
+}
+
+/* Element selector */
+h2 {
+    margin-top: 0;
+}
+
+/* Element selector */
+input {
+    display: block;
+    width: 100%;
+    max-width: 400px;
+    padding: 10px;
+    margin: 5px 0 15px;
+    box-sizing: border-box;
+}
